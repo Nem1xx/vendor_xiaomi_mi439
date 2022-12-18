@@ -28,18 +28,6 @@ android_app_import {
 }
 
 dex_import {
-	name: "QPerformance",
-	owner: "xiaomi",
-	jars: ["proprietary/system/framework/QPerformance.jar"],
-}
-
-dex_import {
-	name: "UxPerformance",
-	owner: "xiaomi",
-	jars: ["proprietary/system/framework/UxPerformance.jar"],
-}
-
-dex_import {
 	name: "tcmiface",
 	owner: "xiaomi",
 	jars: ["proprietary/system/framework/tcmiface.jar"],
